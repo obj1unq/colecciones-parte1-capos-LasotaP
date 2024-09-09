@@ -7,7 +7,7 @@ Este ejercicio busca ser una primer aproximación al mundo de las colecciones.
 
 Se trata de un juego en el cual nuestro personaje, Rolando, va recolectando distintos artefactos por el mundo.
 Para la primera versión, existen 4 artefactos:
-
+ 
 - Espada del destino
 - Libro de hechizos 
 - Collar divino
@@ -46,7 +46,7 @@ liberando espacio para poder levantar nuevos.
  
  También se quiere preguntar si posee un artefacto en especial.
  
-#Ejemplo: 
+### Ejemplo: 
 	Si el castillo tiene el collar, la espada. Rolando tiene la armadura. 
 	Entonces rolando posee el collar, la espada y la armadura.
 	El libro no lo posee.
